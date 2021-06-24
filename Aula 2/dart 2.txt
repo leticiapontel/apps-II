@@ -1,0 +1,12 @@
+void main ()
+{
+  //Tipo de constante (não pode ser mudada)
+  const pi = 2.1;
+  
+  //Tipo Booleano - recebe apenas TRUE ou FALSE
+  bool continuar = true;
+  
+  print (pi);
+  print (continuar);
+  
+}
