@@ -1,0 +1,10 @@
+void main() {
+  
+  double salario = 2000;
+  double acrescimo = 1.2;
+  
+  double total = (salario*acrescimo);
+  
+  print("O total é "+ "$total");
+  
+}

@@ -1,0 +1,9 @@
+void main ()
+{
+  int n1 = 10;
+  double n2 = 40.48;
+  
+  double total = (n1+n2);
+  
+  print ("A soma é " + "$total");
+}
